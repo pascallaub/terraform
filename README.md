@@ -46,13 +46,13 @@ Die folgenden Terraform-Befehle wurden als Teil dieser Übung ausgeführt:
 
 Durch diese Aufgabe wurden folgende Lernziele erreicht:
 
-- ✅ Eine minimale, lauffähige Terraform-Konfiguration geschrieben
-- ✅ Einen Provider definiert und konfiguriert (provider Block, required_providers)
-- ✅ Eine einfache Ressource definiert (resource Block)
-- ✅ Den Zweck der Blöcke, Argumente und Sammlungen in HCL verstanden und angewendet
-- ✅ `terraform init` ausgeführt, um Provider herunterzuladen
-- ✅ `terraform plan` ausgeführt, um eine Vorschau der geplanten Änderungen zu sehen
-- ✅ Den Output von `terraform plan` verstanden und interpretiert
+- Eine minimale, lauffähige Terraform-Konfiguration geschrieben
+- Einen Provider definiert und konfiguriert (provider Block, required_providers)
+- Eine einfache Ressource definiert (resource Block)
+- Den Zweck der Blöcke, Argumente und Sammlungen in HCL verstanden und angewendet
+- `terraform init` ausgeführt, um Provider herunterzuladen
+- `terraform plan` ausgeführt, um eine Vorschau der geplanten Änderungen zu sehen
+- Den Output von `terraform plan` verstanden und interpretiert
 
 ## Reflexion
 
