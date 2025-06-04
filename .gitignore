@@ -7,6 +7,14 @@
 .terraformrc
 terraform.rc
 
+# Variable files (können sensible Daten enthalten)
+*.tfvars
+*.tfvars.json
+
+# Außer Beispiel-Dateien
+!example.tfvars
+!test.tfvars
+
 # Environment variables
 .env
 .env.local
